@@ -1,2 +1,2 @@
-# GWENT-Java
+# Gwent-Java
 A Java implementation of Gwent: The Witcher Card Game
