@@ -1,5 +1,5 @@
 # Gwent-Java
-Description\n
+<div>Description</div>
 My project is based on and implements some of the gameplay and mechanics from the GWENT mini-card game from the video game "The Witcher 3: The Wild
 Hunt". 
 
