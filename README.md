@@ -3,11 +3,11 @@
 My project is based on and implements some of the gameplay and mechanics from the GWENT mini-card game from the video game "The Witcher 3: The Wild
 Hunt". 
 
-What It Does
+<div>What It Does</div>
 It uses Java AWT components to allow a user to select cards, choose the maximum amount of cards in a hand and play those cards. 
 The played cards add to the score of their row. The total score of each row is shown on the leftmost side.
 
-How To Use It
+<div>How To Use It</div>
 Run the GameBoard class
 Select the number of cards that should be in a hand (4 or 8).
 
