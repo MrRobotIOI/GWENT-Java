@@ -1,7 +1,6 @@
 # Gwent-Java
 <div><b>Description</b></div>
-My project is based on and implements some of the gameplay and mechanics from the GWENT mini-card game from the video game "The Witcher 3: The Wild
-Hunt". 
+My project is based on and implements some of the gameplay and mechanics from the GWENT mini-card game from the video game "The Witcher 3: The Wild Hunt". 
 
 <div>What It Does</div>
 It uses Java AWT components to allow a user to select cards, choose the maximum amount of cards in a hand and play those cards. 
