@@ -19,3 +19,6 @@ pressing the number keys (1,2,3..), the keys correspond to the order they appear
 - There is a special card called "Blue Stripes Commando" that has an "A" when it is drawn. When this card is played and there is another instance of it present
 on the row then the strength of both card instances is doubled and added to the total. 
 
+UML Diagram
+![alt text](https://raw.githubusercontent.com/MrRobotIOI/images/main/UMLDiagram.png)
+
